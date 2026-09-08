@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="sprawdzanieWieku/sprawdzanieWieku.vcxproj" Id="5bee6c05-5644-4c74-af73-e660326f3fe8" />
+</Solution>
