@@ -1,3 +1,3 @@
 #Pierwszy projekt
 
-Sprawdzanie na jakim etapie szkolnictwa jestes na podstawie studiow
+Sprawdzanie na jakim etapie szkolnictwa jestes na podstawie wieku
